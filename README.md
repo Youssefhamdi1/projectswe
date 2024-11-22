@@ -1,1 +1,1 @@
-Database is made by local sql server
+Database is made using local sql server
